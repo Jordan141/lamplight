@@ -1,4 +1,4 @@
-Backend requires an .env file in ./backfile with PORT=####
+Backend requires an .env file in ./backend with PORT=####
 
 Frontend port can be changed by adding PORT=#### to the beginning of the npm start command in package.json in /frontend
 
